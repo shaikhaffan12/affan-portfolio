@@ -1,0 +1,14 @@
+
+.footer_para{
+    text-align: center;
+    /* margin-bottom: 100px; */
+} 
+
+footer{
+    height: 70px;
+    /* margin-bottom: 0px; */
+    /* border: 1px solid black; */
+}
+a{
+    text-decoration: none;
+}
